@@ -388,6 +388,11 @@ main h3{
         display: grid;
         grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     }
+    
+    .top__estrenos article::before{
+        width: 4rem;
+        height: 4rem;
+    }
 }
 
 
