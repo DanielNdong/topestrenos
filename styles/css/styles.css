@@ -40,7 +40,7 @@ li{
 .header{
     position: relative;
     display: grid;
-    background: url("/assets/images/gru.webp") center/cover no-repeat scroll ;
+    background: url("assets/images/gru.webp") center/cover no-repeat scroll ;
     /* object-fit: cover; */
     /* grid-template-columns: repeat(1, minmax(min-content, max-content)); */
 }
