@@ -87,9 +87,8 @@ li{
 
 /* section container*/
 .header__container{
-    /* display: none; */
     padding: 5rem 1.5rem 0;
-    height: 30vh;
+    height: auto;
     background: linear-gradient( rgba(8, 15, 40, 0.675) 25%,rgba(76, 95, 143, 0.282) 50%, rgba(8, 15, 40, 0.961) 90%);
 }
 
